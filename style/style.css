@@ -1,0 +1,48 @@
+header{
+    width: 100%;
+    
+}
+.logo{
+    float: left;
+    margin: 50px 50px 50px 150px;
+}
+
+ul{
+    list-style: none;
+    float: left;
+    margin: 50px 50px 50px 550px;
+}
+.navi ul li{
+    float: left;
+    margin-right: 60px;
+}
+.coverImg{
+    margin: 10px 50px 50px 150px;
+    width: 80%;
+}
+.mainSection{
+    margin: 0px 250px 0px 250px;
+}
+h5{
+ color: #d9d6ce;
+}
+h1{
+ color: #626262;
+}
+p{
+    color: #626262;
+}
+.article{
+    margin-left: 250px;
+    width: 84%;
+}
+.article1{
+    float: left;
+    margin-right: 220px;
+    width: 27%;
+}
+.article2{
+    float: left;
+    width: 25%;
+}
+
